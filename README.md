@@ -14,5 +14,5 @@ This project is licensed under the MIT License. See the **LICENSE** file for det
 
 ## Credits
 
-This project was developed by **Gabe DiMartino** for public use and help with Gonzaga CPSC121 assignments.
+This project was developed by **Gabe DiMartino** for public use and help with Gonzaga CPSC222 assignments.
 
