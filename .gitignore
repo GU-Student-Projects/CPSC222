@@ -1,0 +1,5 @@
+# Ingore Raw Data files
+.cache
+
+#ignore private files
+apikey.py
