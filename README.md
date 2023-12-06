@@ -6,6 +6,10 @@ Projects for Gonzaga CPSC222 taught by Bryan Fischer.
 
 Welcome to this repository! I created this space for my own self-reference and to assist others in their learning journey by sharing my successes, as well as the mistakes, I've made along the way. The content here is intended to improve your knowledge and skills.
 
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/enumerated%20energy.png?raw=true">
+</p>
+
 ## **Data Science and Analysis**: Predicting Weather based on Music Listening Patterns
 
 Report by: Gabriel DiMartino for CPSC 222 Intro to Data Science
@@ -46,9 +50,28 @@ For more information regarding academic honesty and the guidelines set forth by 
 
 Remember, learning is a journey, and I hope this repository can serve as a helpful guide in your educational endeavors. Let's all strive to achieve success with integrity and dedication!
 
+## Images
+### Varying Attributes Vs. Weather Conditions
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/2x2%20graph.png?raw=true">
+</p>
+
+### Enumerated Conditions Decision Tree
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/output.png?raw=true">
+</p>
+
+### Binary Conditions Decision Tree
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/binary%20tree.png?raw=true">
+</p>
+
 ## Usage
 
-All projects require python 3.x to run
+All projects require python 3.x to run. Similarly, dependent libraries can be installed using:
+```sh
+pip install -r requirements.txt
+```
 
 ## License
 
