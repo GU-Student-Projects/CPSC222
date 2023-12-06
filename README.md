@@ -6,6 +6,8 @@ Projects for Gonzaga CPSC222 taught by Bryan Fischer.
 
 Welcome to this repository! I created this space for my own self-reference and to assist others in their learning journey by sharing my successes, as well as the mistakes, I've made along the way. The content here is intended to improve your knowledge and skills.
 
+
+
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/enumerated%20energy.png?raw=true">
 </p>
@@ -53,17 +55,17 @@ Remember, learning is a journey, and I hope this repository can serve as a helpf
 ## Images
 ### Varying Attributes Vs. Weather Conditions
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/2x2%20graph.png?raw=true">
+    <img width="75%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/2x2%20graph.png?raw=true">
 </p>
 
 ### Enumerated Conditions Decision Tree
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/output.png?raw=true">
+    <img width="75%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/output.png?raw=true">
 </p>
 
 ### Binary Conditions Decision Tree
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/binary%20tree.png?raw=true">
+    <img width="75%" src="https://github.com/GU-Student-Projects/CPSC222/blob/main/images/binary%20tree.png?raw=true">
 </p>
 
 ## Usage
@@ -72,7 +74,13 @@ All projects require python 3.x to run. Similarly, dependent libraries can be in
 ```sh
 pip install -r requirements.txt
 ```
-
+If you intend to utilize the **Spotify Web API** utility you must create an apikey.py: 
+```sh
+#apikey.py
+CLIENT_KEY = 'Your_Key'
+SECRET_KEY = 'Your_Secret'
+```
+To find this info, please refer to the Spotify API docs on creating a developer account.
 ## License
 
 This project is licensed under the MIT License. See the **LICENSE** file for details.
